@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10f92a2e-015b-40e9-9753-f2a7489a7fe4</dc:identifier>
+        <dc:title>Monstrous Regiment</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Pratchett, Terry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.33.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-11-13T00:00:00+00:00</dc:date>
+        <dc:publisher>HarperCollins e-books</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">bcc81533-6e19-45a3-b7be-c0fdb9c912c9</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Pratchett, Terry&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-12-08T05:16:04.301354+00:00"/>
+        <meta name="calibre:title_sort" content="Monstrous Regiment"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8b4c2915-486f-4110-a84c-4f25fe02b572</dc:identifier>
+        <dc:title>Thud!</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Pratchett, Terry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.33.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-09-12T23:00:00+00:00</dc:date>
+        <dc:publisher>HarperCollins e-books</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">a400f6dc-0060-4dba-a814-a272b85a2c2d</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Pratchett, Terry&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-12-08T05:16:03.613806+00:00"/>
+        <meta name="calibre:title_sort" content="Thud!"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9b90af90-e54d-4315-8e6f-51445f050b69</dc:identifier>
+        <dc:title>A Hat Full of Sky</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Pratchett, Terry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.33.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-04-02T23:00:00+00:00</dc:date>
+        <dc:publisher>HarperCollins e-books</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">6db3410b-270e-4a34-99d5-a3636b55d70c</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Pratchett, Terry&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-12-08T05:16:04.754508+00:00"/>
+        <meta name="calibre:title_sort" content="Hat Full of Sky, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

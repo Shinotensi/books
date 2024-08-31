@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">61</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">54aa80e5-8c80-4a9e-9a34-6a31a9354e82</dc:identifier>
+        <dc:title>Carpe Jugulum</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.33.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-08T02:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: Carpe Jugulum is the 23rd Discworld novel, and with it this durable series continues its juggernaut procession onward. Pratchett is an author who inspires such devotions that his fans will fall on the novel with cries of joy. Nonfans, perhaps, will want to know what all the fuss is about; and that's something difficult to put into a few words. The best thing to do for those completely new to Pratchett is to sample him for themselves, and this novel is as good a place to start as any. But fans have a more precise question. They know that Discworld novels come in one of two varieties: the quite good and the brilliant. So, for instance, where Hogfather and Maskerade were quite good, Feet of Clay and Jingo were brilliant. While true fans wouldn't want to do without the former, they absolutely live for the latter. And with Carpe Jugulum, Pratchett has hit the jackpot again. This novel is one of the brilliant ones. The plot is a version of an earlier Discworld novel, Lords and Ladies, with the predatory elves of that novel being replaced here by suave and deadly vampires, and the tiny kingdom of Lancre being defended by its witches. But plot is the least of Pratchett's appeal, and Carpe Jugulum is loaded with marvelous characters (not least the witches themselves, about whom we learn a deal more), comic touches and scenes of genius, and even some of the renowned down-to-earth Pratchett wisdom (about the inner ethical conflicts we all face and the wrongness of treating people as things). Pratchett's vampires are elegant Bela Lugosi types, and they come up against an unlikely but engaging alliance of witches; blue-skinned pixies like Rob Roy Smurfs; a doubting priest with a boil on his face; and a magical house-size Phoenix in a seamless, completely absorbing, and feel-good-about-the-universe mixture.</dc:description>
+        <dc:publisher>Corgi</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780613277617</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">51e89046-2f2d-4b97-8e43-a0c4331035b1</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy:Humour</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Terry Pratchett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-12-08T05:16:09.676718+00:00"/>
+        <meta name="calibre:title_sort" content="Carpe Jugulum"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
