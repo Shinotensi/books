@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c86e3743-15b4-4d2e-ad5a-4bf24d1f8b2b</dc:identifier>
+        <dc:title>Lords and Ladies</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.33.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-08-22T03:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: Although they may feature witches and wizards, vampires and dwarves, along with the occasional odd human, Terry Pratchett's bestselling Discworld novels are grounded firmly in the modern world. Taking humorous aim at all our foibles, each novel reveals our true character and nature.It's a dreamy midsummer's night in the Kingdom of Lancre. But music and romance aren't the only things filling the air. Magic and mischief are afoot, threatening to spoil the royal wedding of King Verence and his favorite witch, Magrat Garlick. Invaded by some Fairie Trash, soon it won't be only champagne that's flowing through the streets ...</dc:description>
+        <dc:publisher>HarperPrism</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061056925</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">95353630-15ef-4e43-ad7d-992504fb075d</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy:Humour</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Terry Pratchett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-12-08T05:16:07.989103+00:00"/>
+        <meta name="calibre:title_sort" content="Lords and Ladies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
